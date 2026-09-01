@@ -1,30 +1,68 @@
-# Global-Market-Research
-Comprehensive Excel dashboard analyzing sales performance, customer behavior, and marketing impact. Features include dynamic charts, pivot tables, funnel analysis, and sentiment tracking to uncover actionable insights.
+# Global Market & Business Performance Analysis
+This project looks at sales, customer feedback, product performance, and marketing activity across different markets to understand what is driving business performance and where there may be opportunities to improve.
 
-## Overview
-This project delivers an **interactive Excel dashboard** for a global marketing team to evaluate **regional performance, brand competitiveness, customer behavior, and market potential**. 
+The goal was not simply to report what happened, but to use the available data to identify patterns, questions worth investigating, and areas where management could focus its attention.
 
-The dashboard answers key business questions and supports **strategic decisions for market entry and resource allocation**.
+## Business Context
+A global business is operating across different regions, product categories, customer segments, and marketing channels. Management needs a clearer view of how these areas are performing and where the business may have opportunities or areas that need attention.
 
-## Objectives
-- Analyze **market share by product category and region**.
-- Correlate **customer sentiment with revenue performance**.
-- Track **sales funnel and acquisition patterns**.
-- Identify **growth opportunities across markets**.
+This project brings together sales, customer, product, marketing, and feedback data to understand differences in performance across markets and identify patterns that can help guide business decisions. 
 
-## Business Questions
-1. Which regions generate the highest revenue and market share?
-2. Does positive customer sentiment correlate with higher revenue?
-3. Where do customers drop off in the acquisition journey?
-4. Which regions and product categories have the greatest growth potential despite competition?
-5. Which customer segments contribute most to sales?
+## Business Problem
+Management needs a clearer view of what is driving differences in sales performance across **markets, products, customers, and marketing channels** so that resources can be directed toward the areas with the greatest opportunity.
 
-## Dataset Overview
+## Questions I wanted to answer
+1. Which markets and regions are contributing most to revenue?
+2. Which products and categories are performing well or underperforming?
+3. Which customer segments contribute most to sales?
+4. What does customer feedback tell us about the customer experience?
+5. How are marketing channels performing?
+6. Are there noticeable changes in performance over time?
+7. Where should management investigate further?
+
+## Key Takeaways
+- 
+- 
+- 
+- 
+
+## Decision Lens
+
+## Data
 This dataset captures global sales and marketing data across multiple product categories and regions. It includes KPIs like revenue, acquisition sources, engagement funnel metrics, sentiment scores, and repeat purchase behavior. Data was cleaned and analyzed in Excel to uncover performance trends and customer journey insights.
+
+## Analytical Approach
+
+## Data Preparation & Modelling
+
+## Analysis
+### Regional Performance
+### Product Performance
+### Customer Segments
+### Marketing Performance
+### Customer Feedback
+### Trends Over Time
+
+## Business Recommendations
+
+## Questions for Further Investigation
+
+## Limitations
 
 ## Tools Used
 - **Microsoft Excel** (Power Query, Power Pivot, Pivot Table, Pivot Charts, Slicers)
 - **Data Cleaning**: PROPER, TRIM, XLOOKUP, INDEX-MATCH
+
+## What I Learned
+
+
+
+
+
+
+
+## Dataset Overview
+This dataset captures global sales and marketing data across multiple product categories and regions. It includes KPIs like revenue, acquisition sources, engagement funnel metrics, sentiment scores, and repeat purchase behavior. Data was cleaned and analyzed in Excel to uncover performance trends and customer journey insights.
 
 ## Data Cleaning & Preparation
 1. Sales Data
