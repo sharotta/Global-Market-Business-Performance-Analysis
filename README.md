@@ -26,8 +26,6 @@ Management needs a clearer view of what is driving differences in sales performa
 * **Customer and marketing performance are uneven:** Adults contribute the highest revenue among customer segments, while Social Media and Organic Search generate stronger revenue than Paid Ads.
 * **There are opportunities beyond revenue growth:** The low repeat-purchase rate, engagement-to-conversion drop-off, and negative sentiment in Beauty highlight areas where improving the customer journey could create additional value.
 
-## Decision Lens
-
 ## Data
 The analysis uses sales, customer, product, marketing, and customer feedback data across different regions and product categories.
 
